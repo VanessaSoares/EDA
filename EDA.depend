@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1462058113 source:c:\users\lucas\documents\github\eda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vector.h"
+	"SortingAlgorithms.h"
+
+1453684169 c:\users\lucas\documents\github\eda\vector.h
+	<Windows.h>
+
+1462058129 c:\users\lucas\documents\github\eda\sortingalgorithms.h
+
+1462058142 source:c:\users\lucas\documents\github\eda\sortingalgorithms.c
+	<stdlib.h>
+	<stdio.h>
+	"SortingAlgorithms.h"
+
+1462058249 source:c:\users\lucas\documents\github\eda\vector.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
