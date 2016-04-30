@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "Vector.h"
+#include "SortingAlgorithms.h"
 
 int main()
 {
-    printf("Hello world!\n");
-    return 0;
+   long int* vector = CreateRandomVector(100);
+   ShowVector(vector, 100);
+   SaveVector("..\\VectorTest.txt", vector, 100);
 }
