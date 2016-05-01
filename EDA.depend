@@ -20,3 +20,24 @@
 	<stdlib.h>
 	<time.h>
 
+1462059227 source:c:\users\vanessa\documents\estrutura_de_dados\eda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Vector.h"
+	"SortingAlgorithms.h"
+
+1462059227 c:\users\vanessa\documents\estrutura_de_dados\eda\vector.h
+	<Windows.h>
+
+1462059227 c:\users\vanessa\documents\estrutura_de_dados\eda\sortingalgorithms.h
+
+1462059227 source:c:\users\vanessa\documents\estrutura_de_dados\eda\sortingalgorithms.c
+	<stdlib.h>
+	<stdio.h>
+	"SortingAlgorithms.h"
+
+1462059227 source:c:\users\vanessa\documents\estrutura_de_dados\eda\vector.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

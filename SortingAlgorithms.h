@@ -15,7 +15,7 @@ com este programa, Se não, veja <http://www.gnu.org/licenses/>.
 
 Arquivo: SortingAlgorithms.h
 Descrição: Definição de algoritmos de ordenação
-Autor: Lucas de Souza Vieira <lukaslka_my08@hotmail.com>	*/
+Autor: Vanessa Soares */
 
 
 #ifndef SORTINGALGORITHMS_H
